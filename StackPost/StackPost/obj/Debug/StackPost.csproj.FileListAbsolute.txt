@@ -1,0 +1,7 @@
+E:\Stack-Post-Blog\StackPost\StackPost\obj\Debug\StackPost.csproj.AssemblyReference.cache
+E:\Stack-Post-Blog\StackPost\StackPost\obj\Debug\StackPost.csproj.CoreCompileInputs.cache
+E:\Stack-Post-Blog\StackPost\StackPost\bin\Debug\StackPost.exe.config
+E:\Stack-Post-Blog\StackPost\StackPost\bin\Debug\StackPost.exe
+E:\Stack-Post-Blog\StackPost\StackPost\bin\Debug\StackPost.pdb
+E:\Stack-Post-Blog\StackPost\StackPost\obj\Debug\StackPost.exe
+E:\Stack-Post-Blog\StackPost\StackPost\obj\Debug\StackPost.pdb
