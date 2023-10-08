@@ -20,11 +20,15 @@ namespace StackPost
             StackPostBlog blog2 = new StackPostBlog(2, "Cooking Adventures", "Exploring new recipes and cooking techniques.");
             StackPostBlog blog3 = new StackPostBlog(3, "Travel Stories", "Exciting travel adventures from around the world.");
             StackPostBlog blog4 = new StackPostBlog(4, "Fitness Tips", "Get in shape with our fitness and health advice.");
+            StackPostBlog blog5 = new StackPostBlog(4, "Fitness Tips", "Get in shape with our fitness and health advice.");
+
             // Add these blogs to the list
             StackPostBlogs.Add(blog1);
             StackPostBlogs.Add(blog2);
             StackPostBlogs.Add(blog3);
             StackPostBlogs.Add(blog4);
+            StackPostBlogs.Add(blog5);
+
         }
         static void Main(string[] args)
         {
